@@ -2,10 +2,10 @@
 ## ¿En qué Comuna de Chile estoy?
 ### https://www.npmjs.com/package/comunas-chile-mjt
 
-> Permite obtener la comuna de Chile, subdiviciòn de tercer orden, cuyo centro esté mas cercana la coordenada simple ingresada.
+> Permite obtener la comuna de Chile, subdivisión de tercer orden, cuyo centro esté más cercana la coordenada simple ingresada.
 
  Se calcula la distancia con centros comunales. 
- En el caso de courbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Deshabilitar condicional si no es necesario
+ En el caso de conurbaciones puede definirse en la variable tolerancia, cuando se entregarán 2 resultados en un arreglo. Deshabilitar condicional si no es necesario
 
 ### Pre-requisitos 📋
 
@@ -24,7 +24,7 @@ No es necesario instalar
 ````
 node location.js
 ````
-2. Entregará el resultado de coordenadas -29.950179, -71.273715 correspondientes a Coquimbo cernano al límite con La serena
+2. Entregará el resultado de coordenadas -29.950179, -71.273715 correspondientes a Coquimbo cercano al límite con La serena
 
 
 ##  🔩
